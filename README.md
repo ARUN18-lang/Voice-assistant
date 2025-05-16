@@ -38,22 +38,6 @@ Ensure you are using Python 3.11 (as specified in .python-version).
 
     streamlit run app.py
 
-**Project structure**
-speech-to-speech/
-├── .env
-├── .gitignore
-├── .python-version
-├── [agent.py](http://_vscodecontentref_/0)
-├── [app.py](http://_vscodecontentref_/1)
-├── [main.py](http://_vscodecontentref_/2)
-├── [pyproject.toml](http://_vscodecontentref_/3)
-├── [README.md](http://_vscodecontentref_/4)
-├── [requirements.txt](http://_vscodecontentref_/5)
-├── [stt.py](http://_vscodecontentref_/6)
-├── [translate.py](http://_vscodecontentref_/7)
-├── [translate1.py](http://_vscodecontentref_/8)
-├── [tts.py](http://_vscodecontentref_/9)
-├── [utils.py](http://_vscodecontentref_/10)
 
 
 **Acknowledgements**
